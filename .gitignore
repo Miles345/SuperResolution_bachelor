@@ -21,4 +21,6 @@ RRN-master/*.png
 
 RRN-master/RRN-master/log/test/
 
+*.pickle
 
+*.pth
